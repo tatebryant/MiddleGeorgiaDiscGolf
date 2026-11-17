@@ -1,0 +1,34 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500" role="img" aria-label="INNOVA DISC GOLF Destroyer (12 | 5 | -1 | 3)">
+  <defs>
+    <radialGradient id="discGrad_Destroyer" cx="40%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.35" />
+      <stop offset="60%" stop-color="#BA0C2F" />
+      <stop offset="100%" stop-color="#111111" />
+    </radialGradient>
+  </defs>
+  <circle cx="250" cy="250" r="215" fill="#000000" opacity="0.18" />
+  <circle cx="250" cy="250" r="210" fill="url(#discGrad_Destroyer)" stroke="#111111" stroke-width="4" />
+  <circle cx="250" cy="250" r="185" fill="none" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="2" />
+  <circle cx="250" cy="250" r="180" fill="none" stroke="#000000" stroke-opacity="0.2" stroke-width="3" />
+  <circle cx="250" cy="250" r="165" fill="#BA0C2F" opacity="0.92" />
+  <ellipse cx="200" cy="150" rx="90" ry="40" fill="#FFFFFF" opacity="0.15" transform="rotate(-20 200 150)" />
+  <text x="250" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="800" fill="#FFD700" text-anchor="middle" letter-spacing="3">INNOVA DISC GOLF</text>
+  <text x="250" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFD700" text-anchor="middle" letter-spacing="1" opacity="0.85">Star Plastic</text>
+  <line x1="160" y1="190" x2="340" y2="190" stroke="#FFD700" stroke-width="2" opacity="0.7" />
+  <text x="250" y="240" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="900" fill="#FFD700" text-anchor="middle" letter-spacing="1">Destroyer</text>
+  <text x="250" y="270" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#FFD700" text-anchor="middle" letter-spacing="2" opacity="0.9">DISTANCE DRIVER</text>
+  <g transform="translate(140, 295)">
+    <rect width="220" height="48" rx="8" fill="#111111" fill-opacity="0.65" stroke="#FFD700" stroke-width="1.5" />
+    <line x1="55" y1="0" x2="55" y2="48" stroke="#FFD700" stroke-opacity="0.4" stroke-width="1" />
+    <line x1="110" y1="0" x2="110" y2="48" stroke="#FFD700" stroke-opacity="0.4" stroke-width="1" />
+    <line x1="165" y1="0" x2="165" y2="48" stroke="#FFD700" stroke-opacity="0.4" stroke-width="1" />
+    <text x="27" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="800" fill="#FFD700" text-anchor="middle" opacity="0.8">SPD</text>
+    <text x="82" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="800" fill="#FFD700" text-anchor="middle" opacity="0.8">GLD</text>
+    <text x="137" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="800" fill="#FFD700" text-anchor="middle" opacity="0.8">TRN</text>
+    <text x="192" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="800" fill="#FFD700" text-anchor="middle" opacity="0.8">FAD</text>
+    <text x="27" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="900" fill="#FFFFFF" text-anchor="middle">12</text>
+    <text x="82" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="900" fill="#FFFFFF" text-anchor="middle">5</text>
+    <text x="137" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="900" fill="#FFFFFF" text-anchor="middle">-1</text>
+    <text x="192" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="900" fill="#FFFFFF" text-anchor="middle">3</text>
+  </g>
+</svg>

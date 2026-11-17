@@ -1,0 +1,44 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480" role="img" aria-label="Hobbs Farm Disc Golf Course - Carrollton, GA">
+  <defs>
+    <linearGradient id="bgGrad_course-hobbs-farm" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#203A43" />
+      <stop offset="60%" stop-color="#E5E5E5" />
+      <stop offset="100%" stop-color="#2C5E3B" />
+    </linearGradient>
+    <linearGradient id="cardOverlay" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.1" />
+      <stop offset="50%" stop-color="#000000" stop-opacity="0" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.85" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#bgGrad_course-hobbs-farm)" />
+  <path d="M 0 260 Q 220 210 460 240 T 800 230 L 800 480 L 0 480 Z" fill="#1C3823" opacity="0.75" />
+  <g fill="#142617" opacity="0.9">
+    <path d="M 40 340 L 60 160 L 80 340 Z M 90 350 L 115 130 L 140 350 Z M 160 360 L 180 180 L 200 360 Z" />
+    <path d="M 640 340 L 665 140 L 690 340 Z M 710 350 L 735 120 L 760 350 Z" />
+  </g>
+    <path d="M 0 320 Q 200 300 450 315 T 800 325 L 800 380 Q 500 360 200 370 L 0 380 Z" fill="#205072" opacity="0.85" />
+  <path d="M 50 335 L 250 335 M 350 340 L 550 340 M 600 330 L 750 330" stroke="#79B4B7" stroke-width="1.5" opacity="0.6" stroke-dasharray="20,15" />
+  <path d="M 0 350 Q 250 310 500 340 T 800 330 L 800 480 L 0 480 Z" fill="#2C5E3B" />
+  <g transform="translate(480, 180)">
+    <ellipse cx="40" cy="190" rx="28" ry="7" fill="#0A0F0A" opacity="0.8" />
+    <rect x="37" y="30" width="6" height="160" fill="#AAAAAA" stroke="#333" stroke-width="1" />
+    <path d="M 8 105 L 72 105 L 66 142 L 14 142 Z" fill="#444444" stroke="#FFFFFF" stroke-width="1.5" />
+    <path d="M 8 105 Q 40 115 72 105" stroke="#BA0C2F" stroke-width="2.5" fill="none" />
+    <rect x="14" y="30" width="52" height="16" rx="3" fill="#BA0C2F" stroke="#FFFFFF" stroke-width="1.2" />
+    <rect x="18" y="33" width="44" height="3" fill="#FFFFFF" opacity="0.7" />
+    <line x1="20" y1="46" x2="32" y2="105" stroke="#E5E5E5" stroke-width="1.8" stroke-dasharray="3,2" />
+    <line x1="28" y1="46" x2="36" y2="106" stroke="#FFFFFF" stroke-width="1.8" stroke-dasharray="3,2" />
+    <line x1="40" y1="46" x2="40" y2="107" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="3,2" />
+    <line x1="52" y1="46" x2="44" y2="106" stroke="#FFFFFF" stroke-width="1.8" stroke-dasharray="3,2" />
+    <line x1="60" y1="46" x2="48" y2="105" stroke="#E5E5E5" stroke-width="1.8" stroke-dasharray="3,2" />
+  </g>
+  <rect width="800" height="480" fill="url(#cardOverlay)" />
+  <g transform="translate(680, 24)">
+    <rect width="96" height="30" rx="15" fill="#BA0C2F" />
+    <text x="48" y="20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="900" fill="#FFFFFF" text-anchor="middle">20 Holes</text>
+  </g>
+  <text x="36" y="380" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#FF4D6D" letter-spacing="1">GEORGIA DISC GOLF</text>
+  <text x="36" y="415" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="900" fill="#FFFFFF">Hobbs Farm Disc Golf Course</text>
+  <text x="36" y="445" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500" fill="#E5E5E5">Carrollton, GA</text>
+</svg>
